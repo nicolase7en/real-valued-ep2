@@ -1,0 +1,28 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: real-valued-ep2
+message: >-
+  If you use this software, please cite both the article from
+  preferred-citation and the software itself.
+type: software
+authors:
+  - given-names: Benoit
+    family-names: Nennig
+  - given-names: Nicolas
+    family-names: Even
+repository-code: "https://github.com/nicolase7en/real-valued-ep2"
+license: GPL-3.0
+preferred-citation:
+  authors:
+  - given-names: Benoit
+    family-names: Nennig
+  - given-names: Nicolas
+    family-names: Even
+  title: "Experimental observation of exceptional points in coupled pendulums."
+  type: article
+  journal: "arXiv"
+  year: 2023
+  doi: 10.48550/arXiv.2308.01089
+
