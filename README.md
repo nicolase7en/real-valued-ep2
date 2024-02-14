@@ -79,11 +79,14 @@ If you are using `real-valued-ep2` in your scientific research, please cite
 
 BibTex:
 ```bibtex
-@article{10.48550/arXiv.2308.01089,
+@article{even2024,
   title={Experimental observation of exceptional points in coupled pendulums},
-  author={Even, N. and Nennig, B. and Lefebvre, G. and Perrey-Debain, E.},
-  journal={arXiv preprint arXiv:2308.01089},
-  year={2023}
+  author={Even, Nicolas and Nennig, Benoit and Lefebvre, Gautier and Perrey-Debain, Emmanuel},
+  journal={Journal of Sound and Vibration},
+  volume={575},
+  pages={118239},
+  year={2024},
+  publisher={Elsevier}
 }
 
 ```

@@ -4,25 +4,28 @@
 cff-version: 1.2.0
 title: real-valued-ep2
 message: >-
-  If you use this software, please cite both the article from
-  preferred-citation and the software itself.
+  If you use this software, please cite both the article
+  from preferred-citation and the software itself.
 type: software
 authors:
   - given-names: Benoit
     family-names: Nennig
   - given-names: Nicolas
     family-names: Even
-repository-code: "https://github.com/nicolase7en/real-valued-ep2"
+repository-code: 'https://github.com/nicolase7en/real-valued-ep2'
 license: GPL-3.0
 preferred-citation:
   authors:
-  - given-names: Benoit
-    family-names: Nennig
-  - given-names: Nicolas
-    family-names: Even
-  title: "Experimental observation of exceptional points in coupled pendulums."
+    - given-names: Nicolas
+      family-names: Even
+    - given-names: Benoit
+      family-names: Nennig
+    - given-names: Gautier
+      family-names: Lefebvre
+    - given-names: Emmanuel
+      family-names: Perrey-Debain
+  title: Experimental observation of exceptional points in coupled pendulums
   type: article
-  journal: "arXiv"
-  year: 2023
-  doi: 10.48550/arXiv.2308.01089
-
+  journal: Journal of Sound and Vibration
+  year: 2024
+  doi: 10.1016/j.jsv.2024.118239
